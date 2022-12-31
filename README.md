@@ -4,7 +4,9 @@ Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-912
 Asipiring Software Developer
 ----------------------------
 
-I am a penultimate year student at Temasek Polytechnic studying for the diploma of Information Technology. My main reason of why I started my journey in IT is due to the recent surge of block chain and a new era of technology. As of now, I am interested in exploring more technologies and am focusing on App Development in native android and would like to learn about Decentralised finance or block chain in the near future.
+<img align="right" alt="coding" width="400" src="https://i.pinimg.com/originals/e4/26/70/e426702edf874b181aced1e2fa5c6cde.gif">
+
+<p align="left">I am a penultimate year student at Temasek Polytechnic studying for the diploma of Information Technology. My main reason of why I started my journey in IT is due to the recent surge of block chain and a new era of technology. As of now, I am interested in exploring more technologies and am focusing on App Development in native android and would like to learn about Decentralised finance or block chain in the near future. </p>
 
 * 🌍  I'm based in Singapore
 * 🖥️  See my portfolio at [Portfolio](http://sites.google.com/view/chenquankaiisaac/home)
